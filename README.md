@@ -1,17 +1,29 @@
 # Face-Recognition
 
-## But
-Une mini application des techniques de traitement d'images sur la reconnaissance faciale.
+## I. But
+Une mini application d'authentificatio par reconnaissance faciale, avec supplement de traitement de photos dans la gallerie d'un utilisateur.
+1. Authentification
+L'application s'ouvre sur une interface d'authentification ou d'inscription par reconnaissance faciale. 
+2. Traitement d'images
+ Un utilisateur authentifie  peut, sur une image de sa gallerie:
+ 
+  - appliquer un filtre;
+  - faire des rotation;
+  - afficher les noms des personnes sur la photo;
+  - reinitialiser ou enregistrer les changements.
 
-## Fichiers
-1. Accueil.m est un fichier app designer. Le Jpanel doit abriter l'affichage de la caméra d'authentificatiom, et le Jlabel en bas dans retourner l'autorisation d'accès. 
-2. Modifier.m est un fichier app designer. Ici on peut:
-  - modifier le filtre,
-  - faire des rotation,
-  - afficher les noms des personnes sur la photo,
-  - reinitialiser nos changements, 
-  - sauver
+## Prerequis
+  - MatlabR2018a ou plus
+  - App designer
+  - Matlab support package for USB Webcams  ---> Matlab adOns 
+  
+## II. Fichiers
 
-## Compatibilite
-  - MatlabRa2018 ou plus
-  - Matlab support package for USB Webcams  ---> Maltb ad ons 
+1. Accueil.m est un fichier app designer.
+- le Jpanel doit abriter l'affichage de la caméra d'authentification;
+- le Jlabel en bas dans retourner l'autorisation d'accès. 
+
+2. Modifier.m est un fichier app designer
+  
+
+
