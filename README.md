@@ -13,9 +13,10 @@ L'application s'ouvre sur une interface d'authentification ou d'inscription par 
   - reinitialiser ou enregistrer les changements.
 
 ## Prerequis
-  - MatlabR2018a ou plus
+  - MatlabR2018b ou plus
   - Statistics and Machine Learning Toolbox
   - Image processing Toolbox
+  - Computer vison Toolbox
   - Matlab support package for USB Webcams 
   - App designer
   
