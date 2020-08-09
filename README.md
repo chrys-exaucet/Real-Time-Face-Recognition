@@ -15,15 +15,15 @@ L'application s'ouvre sur une interface d'authentification ou d'inscription par 
 ## Prerequis
   - MatlabR2018a ou plus
   - Statistics and Machine Learning Toolbox
-  - Image processing Toolbox
-  - Computer vision Toolbox
-  - Matlab support package for USB Webcams 
-  - App designer
+  - Image Processing Toolbox
+  - Computer Vision Toolbox
+  - Matlab Support Package for USB Webcams 
+  - App Designer
   
   
 ## II. Fichiers
 
-1. Connexion.mlapp est  l'interface de connexion iniatiale.
+1. Connexion.mlapp est  l'interface de connexion initiale.
 2. UseInterface.mlapp est l'interface de l'espace personnel de l'utilisateur.
   
 
