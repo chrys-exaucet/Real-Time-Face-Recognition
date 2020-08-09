@@ -16,7 +16,7 @@ L'application s'ouvre sur une interface d'authentification ou d'inscription par 
   - MatlabR2018a ou plus
   - Statistics and Machine Learning Toolbox
   - Image processing Toolbox
-  - Computer vison Toolbox
+  - Computer vision Toolbox
   - Matlab support package for USB Webcams 
   - App designer
   
