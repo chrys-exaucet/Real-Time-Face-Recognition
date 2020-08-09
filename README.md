@@ -5,7 +5,7 @@ Une mini application d'authentification par reconnaissance faciale, avec supplem
 1. Authentification
 L'application s'ouvre sur une interface d'authentification ou d'inscription par reconnaissance faciale. 
 2. Traitement d'images
- Un utilisateur authentifie  peut, sur une image de sa gallerie:
+ Un utilisateur authentifie  peut, sur une image de sa base de donnee via son espace personnel:
  
   - appliquer un filtre;
   - faire des rotation;
@@ -13,7 +13,7 @@ L'application s'ouvre sur une interface d'authentification ou d'inscription par 
   - reinitialiser ou enregistrer les changements.
 
 ## Prerequis
-  - MatlabR2018b ou plus
+  - MatlabR2018a ou plus
   - Statistics and Machine Learning Toolbox
   - Image processing Toolbox
   - Computer vison Toolbox
@@ -23,11 +23,8 @@ L'application s'ouvre sur une interface d'authentification ou d'inscription par 
   
 ## II. Fichiers
 
-1. Accueil.m est un fichier app designer d'interface iniatiale.
-- le Jpanel doit abriter l'affichage de la caméra d'authentification;
-- le Jlabel en bas dans retourner l'autorisation d'accès. 
-
-2. Modifier.m est un fichier app designer de traitement de photos.
+1. Connexion.mlapp est  l'interface de connexion iniatiale.
+2. UseInterface.mlapp est l'interface de l'espace personnel de l'utilisateur.
   
 
 
