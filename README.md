@@ -1,30 +1,27 @@
-# Face-Recognition
+# FaceApp Face-Recognition
 
-## I. But
-Une mini application d'authentification par reconnaissance faciale, avec supplement de traitement de photos dans la gallerie d'un utilisateur.
-1. Authentification
-L'application s'ouvre sur une interface d'authentification ou d'inscription par reconnaissance faciale. 
-2. Traitement d'images
- Un utilisateur authentifie  peut, sur une image de sa base de donnee via son espace personnel:
+## I. Purpose
+A mini facial recognition authentication application, with additional photo processing in a user's gallery.
+1. Authentication
+The application opens on an authentication or registration interface by facial recognition.
+2. Image processing
+ An authenticated user can, on an image in his database via his personal space:
  
-  - appliquer un filtre;
-  - faire des rotation;
-  - afficher les noms des personnes sur la photo;
-  - reinitialiser ou enregistrer les changements.
+  - apply a filter;
+  - rotate;
+  - display the names of the people in the photo;
+  - reset or save changes.
 
-## Prerequis
-  - MatlabR2018a ou plus
+## Prerequisite
+  - MatlabR2018a or higher
   - Statistics and Machine Learning Toolbox
   - Image Processing Toolbox
   - Computer Vision Toolbox
-  - Matlab Support Package for USB Webcams 
+  - Matlab Support Package for USB Webcams
   - App Designer
   
   
-## II. Fichiers
+## II. Files
 
-1. Connexion.mlapp est  l'interface de connexion initiale.
-2. UseInterface.mlapp est l'interface de l'espace personnel de l'utilisateur.
-  
-
-
+1. Connexion.mlapp is the initial login interface.
+2. UseInterface.mlapp is the interface of the user's personal space.
