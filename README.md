@@ -12,7 +12,7 @@ The application opens on an authentication or registration interface by facial r
   - display the names of the people in the photo;
   - reset or save changes.
 
-## Prerequisite
+## II. Prerequisites
   - MatlabR2018a or higher
   - Statistics and Machine Learning Toolbox
   - Image Processing Toolbox
@@ -21,7 +21,7 @@ The application opens on an authentication or registration interface by facial r
   - App Designer
   
   
-## II. Files
+## III. Files
 
 1. Connexion.mlapp is the initial login interface.
 2. UseInterface.mlapp is the interface of the user's personal space.
