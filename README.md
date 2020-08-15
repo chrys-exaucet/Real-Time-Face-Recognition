@@ -14,11 +14,14 @@ The application opens on an authentication or registration interface by facial r
 
 ## II. Prerequisites
   - MatlabR2018a or higher
-  - Statistics and Machine Learning Toolbox
+   - App Designer
+   - Computer Vision Toolbox
   - Image Processing Toolbox
-  - Computer Vision Toolbox
+  - Statistics and Machine Learning Toolbox
   - Matlab Support Package for USB Webcams
-  - App Designer
+  - Image Aquisition Toolbox Support Package for OS Generic Video Interface
+  
+ 
   
   
 ## III. Files
