@@ -1,9 +1,24 @@
 # FaceApp Face-Recognition
 
-
-
 ## I. Purpose
 A real time face recognition and authentication application, with additional image processing in a user's gallery.
+
+## II. Prerequisites
+  - MatlabR2020a or higher
+  - App Designer
+  - Computer Vision Toolbox
+  - Image Processing Toolbox
+  - Statistics and Machine Learning Toolbox
+  - Matlab Support Package for USB Webcams
+ 
+## III. Technologies
+
+1. *Viola-Jones* algorithm for face detection. More about it [here](https://en.wikipedia.org/wiki/Viola%E2%80%93Jones_object_detection_framework)
+2. *Eigenfaces* for face recognition and tracking. More about it [here]()
+
+
+
+## IV. Application Structure
 
 1. Authentication
 The application opens on an authentication or registration interface by facial recognition.
@@ -20,16 +35,9 @@ The application opens on an authentication or registration interface by facial r
 
 ![alt text](https://github.com/chrys-exaucet/Real-Time-Face-Recognition/blob/master/FaceApp-Demo/FaceApp-Gallery.PNG)
 
-## II. Prerequisites
-  - MatlabR2020a or higher
-  - App Designer
-  - Computer Vision Toolbox
-  - Image Processing Toolbox
-  - Statistics and Machine Learning Toolbox
-  - Matlab Support Package for USB Webcams
- 
+
   
-## III. Files
+## V. Files
 
 1. Connexion.mlapp 
 The initial login interface with embedded real time face recognition. 
