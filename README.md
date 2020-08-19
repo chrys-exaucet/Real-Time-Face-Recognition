@@ -1,7 +1,8 @@
 # FaceApp Face-Recognition
 
 ## I. Purpose
-A mini facial recognition authentication application, with additional photo processing in a user's gallery.
+A real time face recognition and authentication application, with additional image processing in a user's gallery.
+
 1. Authentication
 The application opens on an authentication or registration interface by facial recognition.
 2. Image processing
