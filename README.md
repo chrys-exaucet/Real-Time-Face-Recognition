@@ -1,10 +1,15 @@
 # FaceApp Face-Recognition
 
+
+
 ## I. Purpose
 A real time face recognition and authentication application, with additional image processing in a user's gallery.
 
 1. Authentication
 The application opens on an authentication or registration interface by facial recognition.
+
+![alt text](https://github.com/chrys-exaucet/Real-Time-Face-Recognition/blob/master/FaceApp-Demo/FaceApp-Connexion.PNG)
+
 2. Image processing
  An authenticated user can, on an image in his database via his personal space:
  
@@ -13,6 +18,8 @@ The application opens on an authentication or registration interface by facial r
   - display the names of the people in the photo;
   - reset or save changes.
 
+![alt text](https://github.com/chrys-exaucet/Real-Time-Face-Recognition/blob/master/FaceApp-Demo/FaceApp-Gallery.PNG)
+
 ## II. Prerequisites
   - MatlabR2020a or higher
   - App Designer
@@ -20,10 +27,7 @@ The application opens on an authentication or registration interface by facial r
   - Image Processing Toolbox
   - Statistics and Machine Learning Toolbox
   - Matlab Support Package for USB Webcams
-  - Image Aquisition Toolbox Support Package for OS Generic Video Interface
-  
  
-  
   
 ## III. Files
 
