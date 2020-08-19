@@ -13,9 +13,9 @@ The application opens on an authentication or registration interface by facial r
   - reset or save changes.
 
 ## II. Prerequisites
-  - MatlabR2018a or higher
-   - App Designer
-   - Computer Vision Toolbox
+  - MatlabR2020a or higher
+  - App Designer
+  - Computer Vision Toolbox
   - Image Processing Toolbox
   - Statistics and Machine Learning Toolbox
   - Matlab Support Package for USB Webcams
@@ -26,5 +26,11 @@ The application opens on an authentication or registration interface by facial r
   
 ## III. Files
 
-1. Connexion.mlapp is the initial login interface.
-2. UseInterface.mlapp is the interface of the user's personal space.
+1. Connexion.mlapp 
+The initial login interface with embedded real time face recognition. 
+Follow the instructions given through the interface.
+Do register your face before trying to be recognized.
+
+2. UseInterface.mlapp 
+It is the interface of the user's personal space. 
+Must be called by the first interface! Otherwise, comment the first 3 lines of its startupfcn.
