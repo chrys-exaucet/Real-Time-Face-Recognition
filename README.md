@@ -11,7 +11,7 @@ A real time face recognition and authentication application, with additional ima
   - Statistics and Machine Learning Toolbox
   - Matlab Support Package for USB Webcams
   
-  You can download and install necessary packages on Matlab Add-Ons site [here] ().
+  You can download and install necessary packages on Matlab Add-Ons site [here] (https://www.mathworks.com/products/matlab/add-on-explorer.html).
   Follow the tutorial available on the *FaceApp-Demo folder* for furher informations.
  
 ## III. Technologies
@@ -19,7 +19,7 @@ A real time face recognition and authentication application, with additional ima
 1. _*Viola-Jones*_ algorithm for face detection. More about it [here](https://en.wikipedia.org/wiki/Viola%E2%80%93Jones_object_detection_framework)
 2. _*Eigenfaces*_ for face recognition and tracking. More about it [here](https://en.wikipedia.org/wiki/Eigenface)
 
-You can still review the Ressourceful-Links.txt file for further iformations.
+You can still review the *Ressourceful-Links.txt* file for further iformations.
 
 
 
@@ -52,3 +52,13 @@ Do register your face before trying to be recognized.
 2. UseInterface.mlapp 
 It is the interface of the user's personal space. 
 Must be called by the first interface! Otherwise, comment the first 3 lines of its startupfcn.
+
+4. Database
+
+Database folder called inside the Connexion.mlapp to recognize regeistered faces. You can add there your set of faces, each in a signle folder.
+Note the the way you will name your folder inside the database is the name you should use to get registered with the app.
+
+If you move the database folder elsewhere or change its name, please modify the database private property inside the Connexion.mlapp accordingly.
+
+4. FaceApp-Demo
+Contains demo videos and photos of the app installation, look&feel and behavior.
