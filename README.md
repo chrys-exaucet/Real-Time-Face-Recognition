@@ -1,7 +1,8 @@
 # FaceApp Face-Recognition
 
 ## I. Purpose
-        A real time face recognition and authentication application, with additional image processing in a user's gallery.
+        A real time face recognition and authentication application,
+        with additional image processing in a user's gallery.
 
 ## II. Prerequisites
   - *MatlabR2020a* or higher
