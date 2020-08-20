@@ -19,20 +19,20 @@ A real time face recognition and authentication application, with additional ima
 1. _*Viola-Jones*_ algorithm for face detection. More about it [here](https://en.wikipedia.org/wiki/Viola%E2%80%93Jones_object_detection_framework)
 2. _*Eigenfaces*_ for face recognition and tracking. More about it [here](https://en.wikipedia.org/wiki/Eigenface)
 
-You can still review the *Ressourceful-Links.txt* file for further iformations.
+  You can still review the *Ressourceful-Links.txt* file for further iformations.
 
 
 
 ## IV. Application Structure
 
 1. Authentication
-The application opens on an authentication or registration interface by facial recognition.
+  The application opens on an authentication or registration interface by facial recognition.
 
 ![alt text](https://github.com/chrys-exaucet/Real-Time-Face-Recognition/blob/master/FaceApp-Demo/FaceApp-Connexion.PNG)
 
 2. Image processing
- An authenticated user can, on an image in his database via his personal space:
- 
+  An authenticated user can, on an image in his database via his personal space:
+
   - apply a filter;
   - rotate;
   - display the names of the people in the photo;
@@ -74,8 +74,9 @@ The application opens on an authentication or registration interface by facial r
 
 6. Ressourceful-Links
 
-Helps you dig deeper the topic and technologies used.
+  Helps you dig deeper the topic and technologies used.
 
 7. FaceApp-Team.jpg
-The set of contributors to the project. Want to be one of them? Send a pull request, signal an isssue of a new feature you want!
-Email us at: chrysexaucet@hotmail.fr
+  The set of contributors to the project. Want to be one of them? Send a pull request, signal an isssue of a new feature you want!
+  Email us at: chrysexaucet@hotmail.fr
+  ![alt text](https://github.com/chrys-exaucet/Real-Time-Face-Recognition/blob/master/FaceApp-Team.jpg)
