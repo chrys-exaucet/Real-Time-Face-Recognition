@@ -51,7 +51,7 @@
   Follow the instructions given through the interface.
   Do register your face before trying to be recognized.
 
-                           2. UseInterface.mlapp 
+                           2. UserInterface.mlapp 
 
   It is the interface of the user's personal space. 
   Must be called by the first interface! Otherwise, comment the first 3 lines of its startupfcn.
