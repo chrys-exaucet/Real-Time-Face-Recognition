@@ -3,6 +3,8 @@
 ## I. Purpose
         A real time face recognition and authentication application,
         with additional image processing in a user's gallery.
+        
+![Demo gif](https://github.com/chrys-exaucet/Real-Time-Face-Recognition/blob/master/FaceApp-Demo/FaceApp-Live-Demo.gif)
 
 ## II. Prerequisites
   - *MatlabR2020a* or higher
