@@ -11,15 +11,15 @@
   - Statistics and Machine Learning Toolbox
   - Matlab Support Package for USB Webcams
   
-  You can download and install necessary packages on Matlab Add-Ons site [here] (https://www.mathworks.com/products/matlab/add-on-explorer.html).
+  You can download and install necessary packages on Matlab Add-Ons site [here](https://www.mathworks.com/products/matlab/add-on-explorer.html).
   Follow the tutorial available on the *FaceApp-Demo folder* for furher informations.
  
 ## III. Technologies
 
-1. _*Viola-Jones*_ algorithm for face detection. More about it [here](https://en.wikipedia.org/wiki/Viola%E2%80%93Jones_object_detection_framework)
-2. _*Eigenfaces*_ for face recognition and tracking. More about it [here](https://en.wikipedia.org/wiki/Eigenface)
+1. _*Viola-Jones*_ algorithm for face detection. More about it [here](https://en.wikipedia.org/wiki/Viola%E2%80%93Jones_object_detection_framework).
+2. _*Eigenfaces*_ for face recognition and tracking. More about it [here](https://en.wikipedia.org/wiki/Eigenface).
 
-  You can still review the *Ressourceful-Links.txt* file for further iformations.
+  You can still review the *Ressourceful-Links.txt* file for further informations.
 
 
 
@@ -32,10 +32,9 @@
 
 2. Image processing
   An authenticated user can, on an image in his database via his personal space:
-
+  - load any image;
   - apply a filter;
   - rotate;
-  - display the names of the people in the photo;
   - reset or save changes.
 
 ![alt text](https://github.com/chrys-exaucet/Real-Time-Face-Recognition/blob/master/FaceApp-Demo/FaceApp-Gallery.PNG)
