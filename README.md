@@ -77,6 +77,7 @@
   Helps you dig deeper the topic and technologies used.
 
 7. FaceApp-Team.jpg
+
   The set of contributors to the project. Want to be one of them? Send a pull request, signal an isssue of a new feature you want!
   
   Email us at: chrysexaucet@hotmail.fr
