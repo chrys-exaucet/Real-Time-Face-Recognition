@@ -32,7 +32,7 @@
                                            
   The application opens on an authentication or registration interface by facial recognition.
 
-![alt text](https://github.com/chrys-exaucet/Real-Time-Face-Recognition/blob/master/FaceApp-Demo/FaceApp-Connexion.PNG)
+![Connexion window](https://github.com/chrys-exaucet/Real-Time-Face-Recognition/blob/master/FaceApp-Demo/FaceApp-Connexion.PNG)
 
                             2. Image processing
                                              
@@ -42,7 +42,7 @@
   - rotate;
   - reset or save changes.
 
-![alt text](https://github.com/chrys-exaucet/Real-Time-Face-Recognition/blob/master/FaceApp-Demo/FaceApp-Gallery.PNG)
+![user interface window](https://github.com/chrys-exaucet/Real-Time-Face-Recognition/blob/master/FaceApp-Demo/FaceApp-Gallery.PNG)
 
 
   
@@ -86,4 +86,4 @@
   
                           Email us at: chrysexaucet@hotmail.fr, jeanlucsanou@gmail.com or  patrick.ombe@gmail.com
   
-  ![alt text](https://github.com/chrys-exaucet/Real-Time-Face-Recognition/blob/master/FaceApp-Team.jpg)
+  ![contributors photos](https://github.com/chrys-exaucet/Real-Time-Face-Recognition/blob/master/FaceApp-Team.jpg)
