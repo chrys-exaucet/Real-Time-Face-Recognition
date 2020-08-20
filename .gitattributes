@@ -1,0 +1,2 @@
+*.mlapp linguist-detectable=true
+*.mlapp linguist-language=Matlab
