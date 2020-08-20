@@ -86,4 +86,4 @@
   
                           Email us at: chrysexaucet@hotmail.fr, jeanlucsanou@gmail.com or  patrick.ombe@gmail.com
   
-  ![contributors photos](https://github.com/chrys-exaucet/Real-Time-Face-Recognition/blob/master/FaceApp-Team.jpg)
+  ![contributors photos](https://github.com/chrys-exaucet/Real-Time-Face-Recognition/blob/master/assets/FaceApp-Team.jpg)
