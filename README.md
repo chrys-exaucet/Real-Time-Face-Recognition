@@ -81,6 +81,6 @@
 
   The set of contributors to the project. Want to be one of them? Send a pull request, signal an isssue of a new feature you want!
   
-                          Email us at: chrysexaucet@hotmail.fr, jranlucsanou@gmail.com or  seanombe@gmail.com
+                          Email us at: chrysexaucet@hotmail.fr, jeanlucsanou@gmail.com or  seanombe@gmail.com
   
   ![alt text](https://github.com/chrys-exaucet/Real-Time-Face-Recognition/blob/master/FaceApp-Team.jpg)
