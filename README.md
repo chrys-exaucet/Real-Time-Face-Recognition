@@ -11,8 +11,8 @@
   - Statistics and Machine Learning Toolbox
   - Matlab Support Package for USB Webcams
   
-        You can download and install necessary packages on Matlab Add-Ons site [here](https://www.mathworks.com/products/matlab/add-on-explorer.html).
-        Follow the tutorial available on the *FaceApp-Demo folder* for furher informations.
+  You can download and install necessary packages on Matlab Add-Ons site [here](https://www.mathworks.com/products/matlab/add-on-explorer.html).
+  Follow the tutorial available on the *FaceApp-Demo folder* for furher informations.
  
 ## III. Technologies
 
@@ -81,6 +81,6 @@
 
   The set of contributors to the project. Want to be one of them? Send a pull request, signal an isssue of a new feature you want!
   
-                                                                                                                                                                                      Email us at: chrysexaucet@hotmail.frjranlucsanou@gmail.com, seanombe@gmail.com
+                          Email us at: chrysexaucet@hotmail.fr, jranlucsanou@gmail.com or  seanombe@gmail.com
   
   ![alt text](https://github.com/chrys-exaucet/Real-Time-Face-Recognition/blob/master/FaceApp-Team.jpg)
