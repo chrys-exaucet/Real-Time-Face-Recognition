@@ -4,7 +4,7 @@
         A real time face recognition and authentication application,
         with additional image processing in a user's gallery.
         
-![Demo gif](https://github.com/chrys-exaucet/Real-Time-Face-Recognition/blob/master/FaceApp-Demo/FaceApp-Live-Demo.gif)
+![Demo gif](FaceApp-Demo/FaceApp-Live-Demo.gif)
 
 ## II. Prerequisites
   - *MatlabR2020a* or higher
@@ -32,7 +32,7 @@
                                            
   The application opens on an authentication or registration interface by facial recognition.
 
-![Connexion window](https://github.com/chrys-exaucet/Real-Time-Face-Recognition/blob/master/FaceApp-Demo/FaceApp-Connexion.PNG)
+![Connexion window](FaceApp-Demo/FaceApp-Connexion.PNG)
 
                             2. Image processing
                                              
@@ -42,7 +42,7 @@
   - rotate;
   - reset or save changes.
 
-![user interface window](https://github.com/chrys-exaucet/Real-Time-Face-Recognition/blob/master/FaceApp-Demo/FaceApp-Gallery.PNG)
+![user interface window](FaceApp-Demo/FaceApp-Gallery.PNG)
 
 
   
@@ -84,5 +84,5 @@
 
   The set of contributors to the project. Want to be one of them? Send a pull request, signal an isssue of a new feature you want!
   
-                          Email us at: chrysexaucet@hotmail.fr, jeanlucsanou@gmail.com or  patrick.ombe@gmail.com
+                          Any trouble or insight? Feel free to open an issue.
   
