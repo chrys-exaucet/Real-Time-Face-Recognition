@@ -35,12 +35,12 @@ with additional image processing in a user's gallery.
 
   
 ##  Files
-  The initial login interface with embedded real time face recognition is on the [Connexion.mlapp ] (src/Connexion.mlapp) file. 
+  The initial login interface with embedded real time face recognition is on the [Connexion.mlapp ](src/Connexion.mlapp) file. 
   Follow the instructions given through the interface.
   Do register your face before trying to be recognized.
 
 
-  [UserInterface.mlapp] (src/UserInterface.mlapp) is the interface of the user's personal space. 
+  [UserInterface.mlapp](src/UserInterface.mlapp) is the interface of the user's personal space. 
   Must be called by the first interface! Otherwise, comment the first 3 lines of its startupfcn.
 
   The [Database](Database) folder called inside the Connexion.mlapp to recognize regeistered faces. You can add there your set of faces, each in a signle folder.
