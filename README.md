@@ -1,4 +1,4 @@
-#Face-Recognizer
+# Face-Recognizer
 
 ## Purpose
   A real time face recognition and authentication application,
