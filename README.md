@@ -24,16 +24,8 @@ with additional image processing in a user's gallery.
 
 ## Application Structure
   The application opens on an authentication or registration interface by facial recognition.                                             
-  An authenticated user can, on an image in his database via his personal space:
-  - load;
-  - apply a given filter;
-  - rotate;
-  - reset or save changes.
+  An authenticated user can apply a set of operations on an image in his database, via his personal space; those are: load, filter, rotate, reset or save changes.
 
-
-
-
-  
 ##  Files
   The initial login interface with embedded real time face recognition is on the [Connexion.mlapp ](src/Connexion.mlapp) file. 
   Follow the instructions given through the interface.
