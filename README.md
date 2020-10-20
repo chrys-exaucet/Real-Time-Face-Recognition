@@ -1,12 +1,12 @@
 # FaceApp Face-Recognition
 
-## I. Purpose
+## Purpose
   A real time face recognition and authentication application,
 with additional image processing in a user's gallery.
         
 
 
-## II. Prerequisites
+## Prerequisites
   - *MatlabR2020a* or higher
   - *App Designer*
   - Computer Vision Toolbox
@@ -17,7 +17,7 @@ with additional image processing in a user's gallery.
   You can download and install necessary packages on Matlab Add-Ons site [here](https://www.mathworks.com/products/matlab/add-on-explorer.html).
   Follow the tutorial available on the *FaceApp-Demo folder* for furher informations.
  
-## III. Technologies
+## Technologies
 
 1. _*Viola-Jones*_ algorithm for face detection. More about it [here](https://en.wikipedia.org/wiki/Viola%E2%80%93Jones_object_detection_framework).
 2. _*Eigenfaces*_ for face recognition and tracking. More about it [here](https://en.wikipedia.org/wiki/Eigenface).
@@ -27,7 +27,7 @@ with additional image processing in a user's gallery.
 
 
 
-## IV. Application Structure
+## Application Structure
 
                             1. Authentication
                                            
@@ -47,7 +47,7 @@ with additional image processing in a user's gallery.
 
 
   
-## V. Files
+##  Files
 
                            1. Connexion.mlapp 
 
