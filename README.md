@@ -4,7 +4,7 @@
         A real time face recognition and authentication application,
         with additional image processing in a user's gallery.
         
-![Demo gif](FaceApp-Demo/FaceApp-Live-Demo.gif)
+
 
 ## II. Prerequisites
   - *MatlabR2020a* or higher
@@ -22,7 +22,7 @@
 1. _*Viola-Jones*_ algorithm for face detection. More about it [here](https://en.wikipedia.org/wiki/Viola%E2%80%93Jones_object_detection_framework).
 2. _*Eigenfaces*_ for face recognition and tracking. More about it [here](https://en.wikipedia.org/wiki/Eigenface).
 
-       You can still review the Ressourceful-Links.txt file for further informations.
+       You can still review the [Ressourceful-Links.txt](Documentation/ressourceful-Links.txt) file for further intels.
 
 
 
@@ -32,17 +32,17 @@
                                            
   The application opens on an authentication or registration interface by facial recognition.
 
-![Connexion window](FaceApp-Demo/FaceApp-Connexion.PNG)
+
 
                             2. Image processing
                                              
   An authenticated user can, on an image in his database via his personal space:
-  - load any image;
-  - apply a filter;
+  - load;
+  - apply a given filter;
   - rotate;
   - reset or save changes.
 
-![user interface window](FaceApp-Demo/FaceApp-Gallery.PNG)
+
 
 
   
@@ -76,13 +76,13 @@
 
   If you move the file elsewhere or change its name, please modify the logo private property inside the UserInterface.mlapp accordingly.
 
-                           6. Ressourceful-Links
+                          
 
-  Helps you dig deeper the topic and technologies used.
 
-                           7. FaceApp-Team.jpg
 
-  The set of contributors to the project. Want to be one of them? Send a pull request, signal an isssue of a new feature you want!
+                       
+
+
   
                           Any trouble or insight? Feel free to open an issue.
   
