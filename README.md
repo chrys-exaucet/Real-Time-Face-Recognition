@@ -22,7 +22,7 @@
 1. _*Viola-Jones*_ algorithm for face detection. More about it [here](https://en.wikipedia.org/wiki/Viola%E2%80%93Jones_object_detection_framework).
 2. _*Eigenfaces*_ for face recognition and tracking. More about it [here](https://en.wikipedia.org/wiki/Eigenface).
 
-       You can still review the [Ressourceful-Links.txt](Documentation/ressourceful-Links.txt) file for further intels.
+You can still review the [Resourceful-Links.txt](Documentation/Resourceful-Links.txt) file for further intels.
 
 
 
