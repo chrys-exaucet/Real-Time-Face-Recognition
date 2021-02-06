@@ -1,4 +1,4 @@
-# Face-Recognizer
+# Fotognizer
 
 ## Purpose
   A real time face recognition and authentication application,
